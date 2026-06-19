@@ -7,7 +7,7 @@ To gain increased resolution for downstream SFS-based analyses, we polarized SNP
 All scripts used in the analyses described below can be found in this directory.  
 
 ## Software
-All of the software used for these analyses are described in the packages [TO DO] directory.
+All of the software used for these analyses are described in the [packages](https://github.com/ekhowell/island_mainland_dfe/tree/main/packages) directory.
 
 ## Analysis and code
 Prior to ancestral state inference with est-sfs, we conducted whole genome, reference-free alignments of current *Peromyscus* NCBI RefSeq assemblies. The following commands download and rename each reference assembly from NCBI's FTP site.
