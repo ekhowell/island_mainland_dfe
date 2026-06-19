@@ -9,7 +9,7 @@ We additionally used the UCSC Genome Browser Table Browser tool to output BED-st
 All scripts used in the analyses described below can be found in this directory.  
 
 ## Software
-All of the software used for these analyses are described in the packages [TO DO] directory.
+All of the software used for these analyses are described in the [packages](https://github.com/ekhowell/island_mainland_dfe/tree/main/packages) directory.
 
 ## Analysis and code
 Using the NCBI command-line toolkit (available [here](https://www-ncbi-nlm-nih-gov.ezproxy.library.wisc.edu/datasets/docs/v2/command-line-tools/download-and-install/)), we downloaded the NCBI datasets for both *P. maniculatus* and *P. leucopus* that include the GFF files needed by VEP to annotate variant effects. 
