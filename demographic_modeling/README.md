@@ -7,7 +7,7 @@ To ensure our demographic models were well calibrated to capture the effects of 
 All scripts used in the analyses described below can be found in this directory.  
 
 ## Software
-All of the software used for these analyses are described in the packages [TO DO] directory.
+All of the software used for these analyses are described in the [packages](https://github.com/ekhowell/island_mainland_dfe/tree/main/packages) directory.
 
 ## Analysis and code
 Prior to inference with ∂a∂i, the input VCFs containing the polarized intergenic allele frequencies for each multi-population callset must be turned into a ∂a∂i-compatible 2D FS object for each pair of populations (i.e., creating a joint, unfolded 2D SFS). This can be acheived by running the `create_fs.py` script for each pair of populations:
