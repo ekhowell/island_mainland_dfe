@@ -11,7 +11,7 @@ Finally, we use the Godambe Information Matrix (GIM) methods of Coffman et al. (
 All scripts used in the analyses described below can be found in this directory.  
 
 ## Software
-All of the software used for these analyses are described in the packages [TO DO] directory.
+All of the software used for these analyses are described in the [packages](https://github.com/ekhowell/island_mainland_dfe/tree/main/packages) directory.
 
 ## Analysis and code
 Prior to inference with ∂a∂i, the input VCFs containing the polarized allele frequencies for each mutation types and each multi-population callset must be turned into ∂a∂i-compatible 2D FS objects for each pair of populations (i.e., creating a joint, unfolded 2D SFS). This can be acheived by running the `create_fs.py` script for each pair of populations:
